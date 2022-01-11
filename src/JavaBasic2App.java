@@ -10,9 +10,9 @@ public class JavaBasic2App {
 		System.out.println(n+a);
 		System.out.println(a-n);
 		
-		//int c = 'J';
+		int c2=c;
 		
-		System.out.println(c);
+		System.out.println(c2);
 	}
 
 }
